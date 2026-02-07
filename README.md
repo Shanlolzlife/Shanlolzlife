@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 Currently studying at **SIM**
 - 💬 Ask me about **Python, C#, C++**
-- 📫 Reach me at **weishanpanglolzlife101@gmail.com**
+- 📫 Reach me at **weishanpang@gmail.com**
 - 📄 My experiences:  
   👉 [LinkedIn Profile](https://www.linkedin.com/in/wei-shan-pang-096b95254/)
 
